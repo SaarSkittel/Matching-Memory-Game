@@ -1,0 +1,6 @@
+C:\Users\Saar\Desktop\github\C# Memory Game\MemoryGame\bin\Debug\B20_Ex02.exe
+C:\Users\Saar\Desktop\github\C# Memory Game\MemoryGame\bin\Debug\B20_Ex02.pdb
+C:\Users\Saar\Desktop\github\C# Memory Game\MemoryGame\obj\Debug\MemoryGame.csprojAssemblyReference.cache
+C:\Users\Saar\Desktop\github\C# Memory Game\MemoryGame\obj\Debug\MemoryGame.csproj.CoreCompileInputs.cache
+C:\Users\Saar\Desktop\github\C# Memory Game\MemoryGame\obj\Debug\B20_Ex02.exe
+C:\Users\Saar\Desktop\github\C# Memory Game\MemoryGame\obj\Debug\B20_Ex02.pdb
